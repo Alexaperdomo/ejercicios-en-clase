@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'digite la edad'
+5
+1
+2
+ed
+4
+1
+25
+'digite el valor a pagar'
+5
+1
+2
+vl
+9
+1
+4
+vl<0
+5
+1
+2
+vl
+11
+7
+0
+1
+5
+ed>60
+4
+1
+26
+'su valor a pagar es' , vl
+13
+6
+1
+3
+des
+12
+vl-(vl*0.60)
+4
+1
+26
+'su valor a pagar es', des
+13
+1

@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+valor
+6
+300000
+4
+1
+38
+'por favor digitar el valor a retirar'
+5
+1
+1
+r
+7
+0
+1
+7
+r>valor
+4
+1
+25
+'su retiro fue realizado'
+6
+1
+5
+total
+7
+valor-r
+4
+1
+23
+'su saldo es de' ,total
+13
+4
+1
+27
+'no tiene saldo suficiente'
+13
+1

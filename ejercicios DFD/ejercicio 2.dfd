@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'digitar el valor del producto'
+5
+1
+1
+p
+4
+1
+22
+'ahora digite su edad'
+5
+1
+1
+e
+7
+0
+1
+4
+e>60
+4
+1
+24
+'su valor a pagar es', p
+13
+6
+2
+3
+des
+6
+p*0.15
+5
+total
+5
+p-des
+4
+1
+27
+'su valor a pagar es',total
+13
+1

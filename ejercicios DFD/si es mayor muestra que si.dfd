@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+0
+5
+1
+5
+a,b,c
+6
+1
+3
+sum
+5
+a+b+c
+7
+0
+1
+12
+sum>=1400000
+6
+1
+5
+total
+11
+1400000-sum
+4
+1
+41
+'no alcanzo le falta un valor de' , total
+13
+4
+1
+15
+'si le alcanzo'
+13
+1

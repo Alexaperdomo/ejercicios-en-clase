@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+'digite primer corte: primero el parcial despues el quiz y el taller'
+5
+1
+15
+par,quiz,taller
+7
+0
+1
+64
+par<0 and par>5  and quiz<0 and quiz>5 and taller<0 and taller>5
+4
+1
+70
+'digite segundo corte: primero el parcial despues el quiz y el taller'
+5
+1
+18
+par2,quiz2,taller2
+7
+0
+1
+69
+par2<0 and par2>5 and quiz2<0 and quiz2>5 and taller2<0 and taller2>5
+4
+1
+69
+'digite tercer corte: primero el parcial despues el quiz y el taller'
+5
+1
+18
+par3,quiz3,taller3
+7
+0
+1
+69
+par3<0 and par3>5 and quiz3<0 and quiz3>5 and taller3<0 and taller3>5
+6
+3
+1
+a
+36
+(par*0.60)+(quiz*0.20)+(taller*0.20)
+1
+b
+39
+(par2*0.60)+(quiz2*0.20)+(taller2*0.20)
+1
+c
+39
+(par3*0.60)+(quiz3*0.20)+(taller3*0.20)
+4
+1
+102
+'la nota del corte 1 fue: ' ,a  , ' la nota del corte 2 fue: ' ,b  , ' la nota del corte 3 fue: '  ,c 
+6
+1
+5
+corte
+23
+(a*0.3)+(b*0.3)+(c*0.4)
+4
+1
+27
+'su nota final fue: ' ,suma
+7
+0
+1
+8
+corte>=3
+4
+1
+8
+'perdio'
+13
+4
+1
+6
+'paso'
+13
+13
+4
+1
+37
+'digite un valor de 0 a 5 unicamente'
+13
+13
+4
+1
+37
+'digite un valor de 0 a 5 unicamente'
+13
+13
+4
+1
+37
+'digite un valor de 0 a 5 unicamente'
+13
+1
